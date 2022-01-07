@@ -146,9 +146,9 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 
-*Hello {} !*
+*Hello @{} chan!*
 
-I'm here to help you manage your groups! [✨](https://telegra.ph/file/915afe0954eba90060387.jpg)
+I'm here to help you manage your groups! [✨](https://i.kym-cdn.com/photos/images/original/001/446/767/b45.gif)
 
 Hit /help to find out more about how to use me to my full potential.
 
